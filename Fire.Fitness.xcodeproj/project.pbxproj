@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -17,6 +17,7 @@
 		5120A83024A7FC4A00963E14 /* SUBViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5120A82F24A7FC4A00963E14 /* SUBViewController.swift */; };
 		5120A83224A81E3500963E14 /* MyPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5120A83124A81E3500963E14 /* MyPageViewController.swift */; };
 		5120A83724A878E600963E14 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5120A83624A878E600963E14 /* GoogleService-Info.plist */; };
+		5120A83924A97EBB00963E14 /* fitness.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 5120A83824A97EBB00963E14 /* fitness.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		5120A82F24A7FC4A00963E14 /* SUBViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SUBViewController.swift; sourceTree = "<group>"; };
 		5120A83124A81E3500963E14 /* MyPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPageViewController.swift; sourceTree = "<group>"; };
 		5120A83624A878E600963E14 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		5120A83824A97EBB00963E14 /* fitness.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fitness.jpeg; sourceTree = "<group>"; };
 		69F45AD9495464B2DE9113CA /* Pods-Fire.Fitness.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fire.Fitness.release.xcconfig"; path = "Target Support Files/Pods-Fire.Fitness/Pods-Fire.Fitness.release.xcconfig"; sourceTree = "<group>"; };
 		B51CDBC7B5785280B0D767BB /* Pods_Fire_Fitness.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Fire_Fitness.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD01565AB3FE8AC04C882CEE /* Pods-Fire.Fitness.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Fire.Fitness.debug.xcconfig"; path = "Target Support Files/Pods-Fire.Fitness/Pods-Fire.Fitness.debug.xcconfig"; sourceTree = "<group>"; };
@@ -54,7 +56,6 @@
 				CD01565AB3FE8AC04C882CEE /* Pods-Fire.Fitness.debug.xcconfig */,
 				69F45AD9495464B2DE9113CA /* Pods-Fire.Fitness.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -93,6 +94,7 @@
 				5120A82624A7932100963E14 /* LaunchScreen.storyboard */,
 				5120A82924A7932100963E14 /* Info.plist */,
 				5120A83624A878E600963E14 /* GoogleService-Info.plist */,
+				5120A83824A97EBB00963E14 /* fitness.jpeg */,
 			);
 			path = Fire.Fitness;
 			sourceTree = "<group>";
@@ -186,6 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5120A82824A7932100963E14 /* LaunchScreen.storyboard in Resources */,
+				5120A83924A97EBB00963E14 /* fitness.jpeg in Resources */,
 				5120A83724A878E600963E14 /* GoogleService-Info.plist in Resources */,
 				5120A82524A7932100963E14 /* Assets.xcassets in Resources */,
 				5120A82324A7931E00963E14 /* Main.storyboard in Resources */,
