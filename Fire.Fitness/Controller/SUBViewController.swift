@@ -12,7 +12,8 @@ class SUBViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        title = "データ入力"
+        
         // Do any additional setup after loading the view.
     }
     
